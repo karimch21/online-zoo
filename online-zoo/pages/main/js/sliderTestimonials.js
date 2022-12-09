@@ -92,3 +92,6 @@ function addActiveBgBody() {
 function removeActiveBgBody() {
     document.querySelector('.wrapper').classList.remove('wrapper--active-bg-testimonials-card');
 }
+
+
+console.log('score 100')
